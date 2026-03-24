@@ -52,14 +52,6 @@ The insights are visualized through an interactive Power BI dashboard.
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Dashboard Screenshot](dashboard.png)
-
-> 📌 *Tip: Add your Power BI dashboard screenshot here for better impact*
-
----
-
 ## 📂 Project Structure
 real-estate-analysis/
 │
